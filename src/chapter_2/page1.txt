@@ -1,3 +1,5 @@
          I love Java
          Do you love Java as much as I do?
          Are you continue learning?
+
+         page2 has more information
